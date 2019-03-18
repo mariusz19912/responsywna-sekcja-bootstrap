@@ -1,0 +1,33 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    color: #b3b3b3;
+}
+.my-skils{
+    width: 100%;
+    height: 100vh;
+    
+}
+.border__headingText{
+    margin-top: 80px; 
+    border-bottom: 1px solid #b3b3b3;
+    width:35%;
+}
+.border__headingText h1{
+    font-size: 2rem;
+}
+.container__header{
+    margin-bottom: 6vh;
+}
+.background__radius{
+    background-color: #ececec;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin: 10px 0;
+}
+.background__radius i{
+    color: orange;
+    font-size: 4rem;
+}
